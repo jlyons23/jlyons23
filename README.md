@@ -1,6 +1,6 @@
 ## Hi, I'm Josh 👋
 
-Computer Science graduate (Data Science major) from the University of New England, based in Brisbane. I work across data science and software development, and I enjoy digging into a problem, working out what matters, and building something that solves it.
+Computer Science graduate (Data Science major) from the University of New England, based in Brisbane.
 
 - 🔭 Currently building out this profile with data science and software projects
 - 🌱 Sharpening my machine learning and writing cleaner, more reliable code
