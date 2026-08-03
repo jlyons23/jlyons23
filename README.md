@@ -7,6 +7,6 @@ Computer Science graduate (Data Science major) from the University of New Englan
 - ⚙️ Growing my full-stack development and systems programming
 - 📊 Data & analysis: Python, R, SQL and MATLAB
 - 💻 Software & systems: Python, Java, C / C++, JavaScript, Scala, Bash and Assembly (plus HTML & CSS)
-- 🛠️ Comfortable with Git, and working across Linux and Windows
+- 🛠️ Comfortable with Git and working across Linux and Windows
 - 💬 Ask me about data analysis, statistical modelling and software development
 - 📫 Reach me at josh.lyons.jl@gmail.com
