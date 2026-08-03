@@ -3,7 +3,8 @@
 Computer Science graduate (Data Science major) from the University of New England, based in Brisbane.
 
 - 🔭 Currently building out this profile with data science and software projects
-- 🌱 Sharpening my machine learning and writing cleaner, more reliable code
+- 🌱 Deepening my machine learning, data analysis and visualisation skills
+- ⚙️ Growing my full-stack development and systems programming
 - 📊 Data & analysis: Python, R, SQL and MATLAB
 - 💻 Software & systems: Python, Java, C / C++, JavaScript, Scala, Bash and Assembly (plus HTML & CSS)
 - 🛠️ Comfortable with Git, and working across Linux and Windows
